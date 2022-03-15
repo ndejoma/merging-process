@@ -19,3 +19,15 @@
  git checkout main
 
  git merge feature-1
+```
+
+## A three-way merge process
+===============================
+ - Happens when there are new commit in the receiving since the current branch was created.
+
+ - A new merge commit is created which is the parent of the last two commits being merge
+
+### Three way merging process
+ 
+
+
