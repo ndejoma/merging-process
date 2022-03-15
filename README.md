@@ -35,6 +35,9 @@ During a three way merge-process, if the same file was edited in both branches, 
   1. Keep both changes you made
   2. Accept changes from the incoming  branch in this case the **merge-conflict** branch
   3. You can also decide to keep the changes in the receiving branch
+ - A merge conflict may happen during three-way merge process, when you make changes to to the same file before the merge commit is created
+ - Git will ask you to resolve all the conflict before it proceeds with the merge of the two branches
+ 
  
 
 
