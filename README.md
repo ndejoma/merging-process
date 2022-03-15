@@ -28,6 +28,9 @@
  - A new merge commit is created which is the parent of the last two commits being merge
 
 ### Three way merging process
+ - A merge conflict may happen during three-way merge process, when you make changes to to the same file before the merge commit is created
+ - Git will ask you to resolve all the conflict before it proceeds with the merge of the two branches
+ 
  
 
 
