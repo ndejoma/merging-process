@@ -28,6 +28,13 @@
  - A new merge commit is created which is the parent of the last two commits being merge
 
 ### Three way merging process
+
+During a three way merge-process, if the same file was edited in both branches, a merge conflict will happen. To resolve the conflict manually, you can use an editor/; lke nano and VScode.
+- You can decide:
+
+  1. Keep both changes you made
+  2. Accept changes from the incoming  branch in this case the **merge-conflict** branch
+  3. You can also decide to keep the changes in the receiving branch
  
 
 
